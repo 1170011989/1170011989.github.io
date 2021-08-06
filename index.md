@@ -2,7 +2,7 @@
 layout: page
 title: Post-Doctorial Researcher
 subtitle: Natural Science Research Institute, Korea University
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/githubcover.jpg
 ---
 
 <br/>
