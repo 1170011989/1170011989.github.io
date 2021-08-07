@@ -3,10 +3,11 @@ layout: page
 title: Publication
 ---
 
-
-# Published
-
 (*: Correspondence)
+
+
+# Published Papers
+
 
 1. H.G. Lee, J. Park, **S. Yoon**, C. Lee, J. Kim*, Mathematical model and numerical simulation for tissue growth on bioscaffolds, Applied Sciences 9(19), 4058 (2019).
 2. C. Lee, D. Jeong, **S. Yoon**, J. Kim*, Porous three-dimensional scaffold generation for 3D printing, Mathematics 8(6), 946 (2020).
@@ -23,3 +24,9 @@ title: Publication
 13. J. Lyu, E. Park, S. Kim, W. Lee, C. Lee, **S. Yoon**, J. Park, J. Kim*, Optimal non-uniform finite difference grids for the Black--Scholes equations, Mathematics and Computers in Simulation 182, 690--704 (2021).
 14. J. Wang, C. Lee, H.G. Lee, Q. Zhang, J. Yang, J. Park, **S. Yoon**, J. Kim*, Phase-field modeling and numerical simulation for ice melting, Numerical Mathematics: Theory, Methods and Applications, Accepted (2021).
 15. **S. Yoon**, J. Wang, C. Lee, J. Yang, J. Park, H. Kim, J. Kim*, Numerical investigation to the effect of initial guess for phase-field models, East Asian Journal on Applied Mathematics, Accepted (2021).
+
+
+# Submitted Papers
+
+
+1. S. Lee, **S. Yoon**, J. Kim*, Effective time step analysis of convex splitting schemes for the Swift--Hohenberg equation, Journal of Computational and Applied Mathematics.
