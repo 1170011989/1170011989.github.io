@@ -22,11 +22,21 @@ title: Publication
 11. C. Lee, H. Kim, **S. Yoon**, J. Park, S. Kim, J. Yang, J. Kim*, On the evolutionary dynamics of the Cahn--Hilliard equation with cut-off mass source, Numerical Mathematics: Theory, Methods and Applications 14(1), 242--260 (2021).
 12. C. Lee, H. Kim, **S. Yoon**, S. Kim, D. Lee, J. Park, S. Kwak, J. Yang, J. Wang, J. Kim*, An unconditionally stable scheme for the Allen--Cahn equation with high-order polynomial free energy, Communications in Nonlinear Science and Numerical Simulation 95, 105658 (2021).
 13. J. Lyu, E. Park, S. Kim, W. Lee, C. Lee, **S. Yoon**, J. Park, J. Kim*, Optimal non-uniform finite difference grids for the Black--Scholes equations, Mathematics and Computers in Simulation 182, 690--704 (2021).
-14. J. Wang, C. Lee, H.G. Lee, Q. Zhang, J. Yang, J. Park, **S. Yoon**, J. Kim*, Phase-field modeling and numerical simulation for ice melting, Numerical Mathematics: Theory, Methods and Applications, Accepted (2021).
-15. **S. Yoon**, J. Wang, C. Lee, J. Yang, J. Park, H. Kim, J. Kim*, Numerical investigation to the effect of initial guess for phase-field models, East Asian Journal on Applied Mathematics, Accepted (2021).
+14. J. Wang, C. Lee, H.G. Lee, Q. Zhang, J. Yang, J. Park, **S. Yoon**, J. Kim*, Phase-field modeling and numerical simulation for ice melting, Numerical Mathematics: Theory, Methods and Applications 14(2), 540--558 (2021).
+15. Y. Li, C. Lee, J. Wang, **S. Yoon**, J. Park, J. Kim*, A simple benchmark problem for the numerical methods of the Cahn--Hilliard equation, Discrete Dynamics in Nature and Society, 8889603 (2021).
+16. S. Kim, C. Lee, J. Park, S. Yoon, Y. Choi, J. Kim*, A simple visualization method for three-dimensional (3D) network, Discrete Dynamics in Nature and Society, 1426212 (2021).
+17. **S. Yoon**, J. Wang, C. Lee, J. Yang, J. Park, H. Kim, J. Kim*, Numerical investigation to the effect of initial guess for phase-field models, East Asian Journal on Applied Mathematics 11(3), 618--646 (2021).
+18. Y. Li, Q. Xia, **S. Yoon**, C. Lee, B. Lu, J. Kim*, A simple and efficient volume merging method for triply periodic minimal structure, Computer Physics Communications 264, 107956 (2021).
 
 
 # Submitted Papers
 
 
-1. S. Lee, **S. Yoon**, J. Kim*, Effective time step analysis of convex splitting schemes for the Swift--Hohenberg equation, Journal of Computational and Applied Mathematics.
+1. S. Lee, **S. Yoon**, J. Kim*, Effective time step analysis of convex splitting schemes for the Swift--Hohenberg equation, Journal of Computational and Applied Mathematics. (20200622)
+2. S. Lee, **S. Yoon**, J. Kim*, A linear convex splitting scheme for the Cahn-Hilliard equation with a high-order polynomial free energy, Computer Methods in Applied Mechanics and Engineering. (20210705)
+3. H. Kim, J. Yang, S. Kim, C. Lee, **S. Yoon**, S. Kwak, J. Kim*, Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate, Theoretical and Computational Fluid Dynamics. (20210716)
+4. S. Lee, **S. Yoon**, C. Lee, S. Kim, H. Kim, J. Yang, S. Kwak, Y. Hwang, J. Kim*, Effective time step analysis for the Allen-Cahn equation with a high-order polynomial free energy, Applied Mathematics and Computation. (20210727)
+5. Y. Li, **S. Yoon**, J. Wang, J. Park, S. Kim, C. Lee, H. Kim, J. Kim*, Fast and efficient numerical method for multiphase image segmentation, Mathematical Problems in Engineering. (20210727)
+6. C. Lee, **S. Yoon**, J. Park, H. Kim, Y. Li, D. Jeong, S. Kim, S. Kwak, J. Kim*, Phase-field computations of anisotropic ice crystal growth on a spherical surface, Computer Physics Communications. (20210802)
+7. **S. Yoon**, J. Park, C. Lee, S. Kim, Y. Choi, S. Kwak, H. Kim, J. Kim*, Optimal orientation of solar panels for multi-apartment buildings, Sustainable Energy Technologies and Assessments. (20210804)
+8. H. Kim, C. Lee, **S. Yoon**, Y. Choi, J. Kim*, A fast shape transformation using a phase-field model, Computational Mechanics. (20210806)
