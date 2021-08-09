@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post-Doctorial Researcher
+title: Research Fellow
 subtitle: Natural Science Research Institute, Korea University
 cover-img: /assets/img/githubcover.jpg
 ---
@@ -9,7 +9,7 @@ cover-img: /assets/img/githubcover.jpg
 
 ## About me
 
-**Sungha Yoon** is a **_post-doctorial researcher_** in Natural Science Research Institue, Korea University. My research interests are computational fluid dynamics, phase-field models, image analysis, etc.
+**Sungha Yoon** is a **_research fellow_** in Natural Science Research Institute, Korea University. My research interests are computational fluid dynamics, phase-field models, image analysis, etc.
 
 ## Contact
 
