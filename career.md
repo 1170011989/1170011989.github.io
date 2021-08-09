@@ -8,13 +8,19 @@ title: Research Career
 
 # Work Experience
 
-### Korea University, Sejong
-#### Research Fellow, March 2021 - August 2021
+## Korea University, Sejong
+### Research Fellow
+
+
+#### March 2021 - August 2021
 
 * DCSC161(06) / Calculus 1, Undergraduate
 
-### Kwangwoon University, Seoul
-#### Instructor, March 2020 - August 2020
+## Kwangwoon University, Seoul
+### Instructor
+
+
+#### March 2020 - August 2020
 
 * H000-2-4969-03 / Engineering Mathematics 1, Undergraduate
 * 1160-3-4002-01 / Introduction to Statistics, Undergraduate
