@@ -15,6 +15,6 @@ cover-img: /assets/img/githubcover.jpg
 
 ```
 Affiliation: Natural Science Research Institute, Korea University
-Office: Division of Applied Mathematical Sciences, Korea University, Sejong 30019, Republic of Korea
+Office: Science and Technology Hall 2, Division of Applied Mathematical Sciences, Korea University, Sejong 30019, Republic of Korea
 Email: there122@korea.ac.kr
 ```
