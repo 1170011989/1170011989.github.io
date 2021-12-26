@@ -8,7 +8,11 @@ title: Research Career
 
 # Work Experience
 
-## Korea University, Sejong
+## Ewha Womans University, Seoul (November 2021 - Present)
+### Post-doctorial Researcher
+
+
+## Korea University, Sejong (March 2021 - October 2021)
 ### Research Fellow
 
 
@@ -16,7 +20,8 @@ title: Research Career
 
 * DCSC161(06) / Calculus 1, Undergraduate
 
-## Kwangwoon University, Seoul
+
+## Kwangwoon University, Seoul (March 2020 - August 2020)
 ### Instructor
 
 
@@ -50,6 +55,8 @@ title: Research Career
 
 # Talks
 
+* _2021 KSIAM Annual Meeting_, Busan Bexco, Busan, Republic of Korea, December 2-5, 2021.
+* _2021 KMS Annuial Meeting_, Online Conference, Republic of Korea, October 20-22, 2021.
 * _2021 KSIAM Spring Conference_, Gangneung TopsTen Hotel, Gangneung, Republic of Korea, June 25-27, 2021.
 * _62nd Annual Meeting of the Australian Mathematical Society_, University of Adelaide, Adelaide, Australia, December 4-7, 2018.
 * _23rd Asian Technology Conference in Mathematics_, Yogyakarta State University, Yogyakarta, Indonesia, November 20-24, 2018.
