@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Fellow
-subtitle: Natural Science Research Institute, Korea University
+title: Post-doctorial Researcher
+subtitle: Institute of Mathematical Sciences, Ewha Womans University
 cover-img: /assets/img/githubcover.jpg
 ---
 
@@ -9,12 +9,12 @@ cover-img: /assets/img/githubcover.jpg
 
 ## About me
 
-**Sungha Yoon** is a **_research fellow_** in Natural Science Research Institute, Korea University. My research interests are computational fluid dynamics, phase-field models, image analysis, etc.
+**Sungha Yoon** is a **_post-doctorial researcher_** in Institute of Mathematical Sciences, Ewha Womans University. My research interests are computational fluid dynamics, phase-field models, high-order methods, etc.
 
 ## Contact
 
 ```
-Affiliation: Natural Science Research Institute, Korea University
-Office: Science and Technology Hall 2, Division of Applied Mathematical Sciences, Korea University, Sejong 30019, Republic of Korea
-Email: there122@korea.ac.kr
+Affiliation: Institute of Mathematical Sciences, Ewha Womans University
+Office: Science Hall D105, Institute of Mathematical Sciences, Ewha Womans University, Seoul 03760, Republic of Korea
+Email: there122@ewha.ac.kr
 ```
