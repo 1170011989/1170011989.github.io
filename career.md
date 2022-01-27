@@ -16,19 +16,19 @@ title: Research Career
 * Research Fellow
 
 
-##### March 2021 - August 2021
+* ##### March 2021 - August 2021
 
-* DCSC161(06) / Calculus 1, Undergraduate
+ * DCSC161(06) / Calculus 1, Undergraduate
 
 
 #### Kwangwoon University, Seoul (March 2020 - August 2020)
 * Instructor
 
 
-##### March 2020 - August 2020
+* ##### March 2020 - August 2020
 
-* H000-2-4969-03 / Engineering Mathematics 1, Undergraduate
-* 1160-3-4002-01 / Introduction to Statistics, Undergraduate
+ * H000-2-4969-03 / Engineering Mathematics 1, Undergraduate
+ * 1160-3-4002-01 / Introduction to Statistics, Undergraduate
 
 
 <br/>
