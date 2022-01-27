@@ -30,6 +30,7 @@ title: Publication
 19. Y. Li, **S. Yoon**, J. Wang, J. Park, S. Kim, C. Lee, H. Kim, J. Kim*, Fast and efficient numerical method for multiphase image segmentation, Mathematical Problems in Engineering, 2414209 (2021).
 20. **S. Yoon**, H.G. Lee, Y. Li, C. Lee, J. Park, S. Kim, H. Kim, and J. Kim, Benchmark problems for the numerical discretization of the Cahn--Hilliard equation with a source term, Discrete Dynamics in Nature and Society, 1290895 (2021).
 21. H. Kim, J. Yang, S. Kim, C. Lee, **S. Yoon**, S. Kwak, J. Kim*, Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate, Theoretical and Computational Fluid Dynamics, accepted (2022).
+22. H. Kim, C. Lee, **S. Yoon**, Y. Choi, J. Kim*, A fast shape transformation using a phase-field model, Extreme Mechanics Letters, accepted (2022).
 
 
 # Submitted Papers
@@ -39,4 +40,3 @@ title: Publication
 2. S. Lee, **S. Yoon**, J. Kim*, A linear convex splitting scheme for the Cahn-Hilliard equation with a high-order polynomial free energy, Numerical Methods for Partial Differential Equations. (20211102)
 3. S. Lee, **S. Yoon**, C. Lee, S. Kim, H. Kim, J. Yang, S. Kwak, Y. Hwang, J. Kim*, Effective time step analysis for the Allen-Cahn equation with a high-order polynomial free energy, International Journal for Numerical Methods in Engineering. (20220110)
 4. C. Lee, **S. Yoon**, J. Park, H. Kim, Y. Li, D. Jeong, S. Kim, S. Kwak, J. Kim*, Phase-field computations of anisotropic ice crystal growth on a spherical surface, Computers and Mathematics with Applications. (20211026)
-5. H. Kim, C. Lee, **S. Yoon**, Y. Choi, J. Kim*, A fast shape transformation using a phase-field model, Extreme Mechanics Letters. (20220102)
