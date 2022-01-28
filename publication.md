@@ -38,5 +38,5 @@ title: Publication
 
 1. S. Lee, **S. Yoon**, J. Kim*, Effective time step analysis of convex splitting schemes for the Swift--Hohenberg equation, Journal of Computational and Applied Mathematics. (20200622)
 2. S. Lee, **S. Yoon**, J. Kim*, A linear convex splitting scheme for the Cahn-Hilliard equation with a high-order polynomial free energy, Numerical Methods for Partial Differential Equations. (20211102)
-3. S. Lee, **S. Yoon**, C. Lee, S. Kim, H. Kim, J. Yang, S. Kwak, Y. Hwang, J. Kim*, Effective time step analysis for the Allen-Cahn equation with a high-order polynomial free energy, International Journal for Numerical Methods in Engineering. (20220110)
+3. S. Lee, **S. Yoon**, C. Lee, S. Kim, H. Kim, J. Yang, S. Kwak, Y. Hwang, J. Kim*, Effective time step analysis for the Allen-Cahn equation with a high-order polynomial free energy, International Journal for Numerical Methods in Engineering. (20220129)
 4. C. Lee, **S. Yoon**, J. Park, H. Kim, Y. Li, D. Jeong, S. Kim, S. Kwak, J. Kim*, Phase-field computations of anisotropic ice crystal growth on a spherical surface, Computers and Mathematics with Applications. (20211026)
