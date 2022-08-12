@@ -3,7 +3,7 @@ layout: page
 title: Publication
 ---
 
-(*: Correspondence)
+_(*: Correspondence)_
 
 
 # Published Papers
@@ -30,9 +30,9 @@ title: Publication
 19. Y. Li, **S. Yoon**, J. Wang, J. Park, S. Kim, C. Lee, H. Kim, J. Kim*, Fast and efficient numerical method for multiphase image segmentation, Mathematical Problems in Engineering, 2414209 (2021).
 20. **S. Yoon**, H.G. Lee, Y. Li, C. Lee, J. Park, S. Kim, H. Kim, and J. Kim, Benchmark problems for the numerical discretization of the Cahn--Hilliard equation with a source term, Discrete Dynamics in Nature and Society, 1290895 (2021).
 21. H. Kim, J. Yang, S. Kim, C. Lee, **S. Yoon**, S. Kwak, J. Kim*, Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate, Theoretical and Computational Fluid Dynamics 36, 423--433 (2022).
-22. H. Kim, C. Lee, **S. Yoon**, Y. Choi, J. Kim*, A fast shape transformation using a phase-field model, Extreme Mechanics Letters 52, 101633 (2022). Funded by MSIT (2019R1A6A1A11051177).
-23. S. Lee, **S. Yoon**, C. Lee, S. Kim, H. Kim, J. Yang, S. Kwak, Y. Hwang, J. Kim*, Effective time step analysis for the Allen-Cahn equation with a high-order polynomial free energy, International Journal for Numerical Methods in Engineering, accepted (2022). Funded by MSIT (2019R1A6A1A11051177).
-24. S. Lee, **S. Yoon**, J. Kim*, Effective time step analysis of convex splitting schemes for the Swift--Hohenberg equation, Journal of Computational and Applied Mathematics, accepted (2022). Funded by MSIT (2019R1A6A1A11051177) and ME (2022R1I1A1A01073661).
+22. H. Kim, C. Lee, **S. Yoon**, Y. Choi, J. Kim*, A fast shape transformation using a phase-field model, Extreme Mechanics Letters 52, 101633 (2022). _(MSIT-2019R1A6A1A11051177)_
+23. S. Lee, **S. Yoon**, C. Lee, S. Kim, H. Kim, J. Yang, S. Kwak, Y. Hwang, J. Kim*, Effective time step analysis for the Allen-Cahn equation with a high-order polynomial free energy, International Journal for Numerical Methods in Engineering, accepted (2022). _(MSIT-2019R1A6A1A11051177)_
+24. S. Lee, **S. Yoon**, J. Kim*, Effective time step analysis of convex splitting schemes for the Swift--Hohenberg equation, Journal of Computational and Applied Mathematics, accepted (2022). _(MSIT-2019R1A6A1A11051177 & ME-2022R1I1A1A01073661)_
 
 
 # Submitted Papers
