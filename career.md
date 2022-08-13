@@ -10,13 +10,15 @@ title: Research Career
 
 #### Ewha Womans University, Seoul (November 2021 - Present)
   - Post-doctorial Researcher
-    - ##### March 2022 - August 2022
+    - **March 2022 - August 2022**
       - 35460-01 / Introduction to Set Theory, Undergraduate
+    - **September 2022 - February 2023** (External Instructor in Korea University)
+      - Numerical Analysis, Undergraduate
 
 
 #### Korea University, Sejong (March 2021 - October 2021)
   - Research Fellow
-    - ##### March 2021 - August 2021
+    - **March 2021 - August 2021**
       - DCSC161(06) / Calculus 1, Undergraduate
 
 
