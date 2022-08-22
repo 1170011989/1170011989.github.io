@@ -24,7 +24,7 @@ title: Research Career
 
 #### Kwangwoon University, Seoul (March 2020 - August 2020)
   - Instructor
-    - ##### March 2020 - August 2020
+    - **March 2020 - August 2020**
       - H000-2-4969-03 / Engineering Mathematics 1, Undergraduate
       - 1160-3-4002-01 / Introduction to Statistics, Undergraduate
 
