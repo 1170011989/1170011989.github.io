@@ -54,7 +54,7 @@ title: Research Career
 # Talks
 
 * _2021 KSIAM Annual Meeting_, Busan Bexco, Busan, Republic of Korea, December 2-5, 2021.
-* _2021 KMS Annuial Meeting_, Online Conference, Republic of Korea, October 20-22, 2021.
+* _2021 KMS Annual Meeting_, Online Conference, Republic of Korea, October 20-22, 2021.
 * _2021 KSIAM Spring Conference_, Gangneung TopsTen Hotel, Gangneung, Republic of Korea, June 25-27, 2021.
 * _62nd Annual Meeting of the Australian Mathematical Society_, University of Adelaide, Adelaide, Australia, December 4-7, 2018.
 * _23rd Asian Technology Conference in Mathematics_, Yogyakarta State University, Yogyakarta, Indonesia, November 20-24, 2018.
