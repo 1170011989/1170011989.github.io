@@ -13,7 +13,9 @@ title: Research Career
     - **March 2022 - August 2022**
       - 35460-01 / Introduction to Set Theory, Undergraduate
     - **September 2022 - February 2023** (External Instructor in Korea University)
-      - Numerical Analysis, Undergraduate
+      - MATE252 / Numerical Analysis, Undergraduate
+    - **March 2023 - August 2023**
+      - 35460-01 / Introduction to Set Theory, Undergraduate
 
 
 #### Korea University, Sejong (March 2021 - October 2021)
