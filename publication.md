@@ -31,13 +31,15 @@ _(*: Correspondence)_
 20. **S. Yoon**, H.G. Lee, Y. Li, C. Lee, J. Park, S. Kim, H. Kim, and J. Kim, Benchmark problems for the numerical discretization of the Cahn--Hilliard equation with a source term, Discrete Dynamics in Nature and Society, 1290895 (2021).
 21. H. Kim, J. Yang, S. Kim, C. Lee, **S. Yoon**, S. Kwak, J. Kim*, Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate, Theoretical and Computational Fluid Dynamics 36, 423--433 (2022).
 22. H. Kim, C. Lee, **S. Yoon**, Y. Choi, J. Kim*, A fast shape transformation using a phase-field model, Extreme Mechanics Letters 52, 101633 (2022). _(MSIT-2019R1A6A1A11051177)_
-23. S. Lee, **S. Yoon**, C. Lee, S. Kim, H. Kim, J. Yang, S. Kwak, Y. Hwang, J. Kim*, Effective time step analysis for the Allen-Cahn equation with a high-order polynomial free energy, International Journal for Numerical Methods in Engineering, accepted (2022). _(MSIT-2019R1A6A1A11051177)_
-24. S. Lee, **S. Yoon**, J. Kim*, Effective time step analysis of convex splitting schemes for the Swift--Hohenberg equation, Journal of Computational and Applied Mathematics, accepted (2022). _(MSIT-2019R1A6A1A11051177 & ME-2022R1I1A1A01073661)_
+23. S. Lee, **S. Yoon**, C. Lee, S. Kim, H. Kim, J. Yang, S. Kwak, Y. Hwang, J. Kim*, Effective time step analysis for the Allen--Cahn equation with a high-order polynomial free energy, International Journal for Numerical Methods in Engineering 123(19), 4726--4743 (2022). _(MSIT-2019R1A6A1A11051177)_
+24. C. Lee, **S. Yoon**, J. Park, H. Kim, Y. Li, D. Jeong, S. Kim, S. Kwak, J. Kim*, Phase-field computations of anisotropic ice crystal growth on a spherical surface, Computers and Mathematics with Applications 125, 25--33 (2022). _(MSIT-2019R1A6A1A11051177)_
+25. S. Lee, **S. Yoon**, J. Kim*, Effective time step analysis of convex splitting schemes for the Swift--Hohenberg equation, Journal of Computational and Applied Mathematics 419, 114713 (2022). _(MSIT-2019R1A6A1A11051177 & ME-2022R1I1A1A01073661)_
+26. **S. Yoon**, J. Park, C. Lee, S. Kim, Y. Choi, S. Kwak, H. Kim, J. Kim*, Optimal orientation of solar panels for multi-apartment buildings, Mathematics 11(4), 938 (2023). _(MSIT-2019R1A6A1A11051177)_
+27. S. Lee, **S. Yoon**, J. Kim*, A linear convex splitting scheme for the Cahn--Hilliard equation with a high-order polynomial free energy, International Journal for Numerical Methods in Engineering 124(17), 3586--3602 (2023). _(MSIT-2019R1A6A1A11051177 & ME-2022R1I1A1A01073661)_
 
 
 # Submitted Papers
 
 
-1. C. Lee, **S. Yoon**, J. Park, H. Kim, Y. Li, D. Jeong, S. Kim, S. Kwak, J. Kim*, Phase-field computations of anisotropic ice crystal growth on a spherical surface, Computers and Mathematics with Applications. (20211026)
-2. H. Kim, S. Kang, G. Lee, **S. Yoon**, J. Kim*, Shape transformation on curved surfaces using a phase-field model, Archives of Computational Methods in Engineering. (20220811)
-3. S. Lee, **S. Yoon**, J. Kim*, A linear convex splitting scheme for the Cahn-Hilliard equation with a high-order polynomial free energy, International Journal for Numerical Methods in Engineering. (20220812)
+1. H. Kim, S. Kang, G. Lee, **S. Yoon**, J. Kim*, Shape transformation on curved surfaces using a phase-field model, Communications in Nonlinear Science and Numerical Simulation, in revision.
+2. **S. Yoon**, C. Lee, S. Kwak, S. Kang, J. Kim*, Fast numerical algorithm for the reaction-diffusion equations using an interpolating method, Computational and Applied Mathematics, revision submitted.
