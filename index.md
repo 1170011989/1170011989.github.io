@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post-doctorial Researcher
+title: Research Fellow
 subtitle: Institute of Mathematical Sciences, Ewha Womans University
 cover-img: /assets/img/githubcover.jpg
 ---
@@ -9,7 +9,7 @@ cover-img: /assets/img/githubcover.jpg
 
 ## About me
 
-**Sungha Yoon** is a **_post-doctorial researcher_** in Institute of Mathematical Sciences, Ewha Womans University. My research interests are computational fluid dynamics, phase-field models, high-order methods, etc.
+**Sungha Yoon** is a **_research fellow_** in Institute of Mathematical Sciences, Ewha Womans University. My research interests are computational fluid dynamics, phase-field models, high-order methods, etc.
 
 ## Contact
 
