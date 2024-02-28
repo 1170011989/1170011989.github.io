@@ -9,7 +9,7 @@ title: Research Career
 # Work Experience
 
 #### Ewha Womans University, Seoul (November 2021 - Present)
-  - Post-doctorial Researcher
+  - Research Fellow
     - **March 2022 - August 2022**
       - 35460-01 / Introduction to Set Theory, Undergraduate
     - **September 2022 - February 2023** (External Instructor in Korea University)
@@ -18,6 +18,8 @@ title: Research Career
       - 35460-01 / Introduction to Set Theory, Undergraduate
     - **September 2023 - February 2024**
       - 20408-02 / Calculus II, Undergraduate
+    - **March 2024 - August 2024**
+      - 20406-04 / Calculus, Undergraduate
 
 
 #### Korea University, Sejong (March 2021 - October 2021)
@@ -41,13 +43,13 @@ title: Research Career
 
 * March 2019 - February 2021
   * Korea University, Seoul
-    * Majored in Applied Mathematics - **Advisor : _Junseok Kim_**
+    * Majored in Applied Mathematics, *'Numerical simulations of phase-field models with various applications'*, **Advisor : _Junseok Kim_**
 
 ### Master of Science
 
 * March 2017 - February 2019
   * Korea University, Seoul
-    * Majored in Applied Mathematics - **Advisor : _Jeong-Whan Choi_**
+    * Majored in Applied Mathematics, *'A mathematical study of ideal fluids'*, **Advisor : _Jeong-Whan Choi_**
 
 ### Bachelor of Arts
 
@@ -57,6 +59,7 @@ title: Research Career
 
 # Talks
 
+* _2024 KAIST PDE & Applied Mathematics Workshop_, KAIST, Daejeon, Republic of Korea, January 22-24, 2024.
 * _2023 KSIAM Annual Meeting_, Kimdaejung Convention Center, Gwangju, Republic of Korea, November 2-5, 2023.
 * _2023 KMS Annual Meeting_, Seoul National University, Seoul, Republic of Korea, October 26-28, 2023.
 * _NUIST Workshop_, Nanjing University of Information Science & Technology, Nanjing, China, June 5-6, 2023.
