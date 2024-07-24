@@ -59,6 +59,8 @@ title: Research Career
 
 # Talks
 
+* _KSMB-SMB 2024 Seoul_, Konkuk University, Seoul, Republic of Korea, June 30-July 5, 2024.
+* _17th SIAM East Asian Section Conference_, University of Macau, Macau, China, June 28-July 1, 2024.
 * _2024 KAIST PDE & Applied Mathematics Workshop_, KAIST, Daejeon, Republic of Korea, January 22-24, 2024.
 * _2023 KSIAM Annual Meeting_, Kimdaejung Convention Center, Gwangju, Republic of Korea, November 2-5, 2023.
 * _2023 KMS Annual Meeting_, Seoul National University, Seoul, Republic of Korea, October 26-28, 2023.
