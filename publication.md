@@ -36,10 +36,10 @@ _(*: Correspondence)_
 25. S. Lee, **S. Yoon**, J. Kim*, Effective time step analysis of convex splitting schemes for the Swift--Hohenberg equation, Journal of Computational and Applied Mathematics 419, 114713 (2023). _(MSIT-2019R1A6A1A11051177 & ME-2022R1I1A1A01073661)_
 26. **S. Yoon**, J. Park, C. Lee, S. Kim, Y. Choi, S. Kwak, H. Kim, J. Kim*, Optimal orientation of solar panels for multi-apartment buildings, Mathematics 11(4), 938 (2023). _(MSIT-2019R1A6A1A11051177)_
 27. S. Lee, **S. Yoon**, J. Kim*, A linear convex splitting scheme for the Cahn--Hilliard equation with a high-order polynomial free energy, International Journal for Numerical Methods in Engineering 124(17), 3586--3602 (2023). _(MSIT-2019R1A6A1A11051177 & ME-2022R1I1A1A01073661)_
+28. H. Kim, S. Kang, G. Lee, **S. Yoon**, J. Kim*, Shape transformation on curved surfaces using a phase-field model, Communications in Nonlinear Science and Numerical Simulation 133, 107956 (2024). _(MSIT-2019R1A6A1A11051177 & ME-2022R1I1A1A01073661)_
 
 
 # Submitted Papers
 
 
-1. H. Kim, S. Kang, G. Lee, **S. Yoon**, J. Kim*, Shape transformation on curved surfaces using a phase-field model, Communications in Nonlinear Science and Numerical Simulation, in revision.
-2. **S. Yoon**, C. Lee, S. Kwak, S. Kang, J. Kim*, Fast numerical algorithm for the reaction-diffusion equations using an interpolating method, Computational and Applied Mathematics, revision submitted.
+1. **S. Yoon**, C. Lee, S. Kwak, S. Kang, J. Kim*, Fast numerical algorithm for the reaction-diffusion equations using an interpolating method, Computational and Applied Mathematics, revised version submitted.
