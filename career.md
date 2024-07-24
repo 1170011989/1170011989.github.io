@@ -10,17 +10,17 @@ title: Research Career
 
 #### Ewha Womans University, Seoul (November 2021 - Present)
   - Research Fellow
-    - **March 2022 - August 2022**
+    - **March 2024 - August 2024**
+      - 20406-04 / Calculus, Undergraduate
+    - **September 2023 - February 2024**
+      - 20408-02 / Calculus II, Undergraduate
+    - **March 2023 - August 2023**
       - 35460-01 / Introduction to Set Theory, Undergraduate
     - **September 2022 - February 2023** (External Instructor in Korea University)
       - MATE252 / Numerical Analysis, Undergraduate
-    - **March 2023 - August 2023**
+    - **March 2022 - August 2022**
       - 35460-01 / Introduction to Set Theory, Undergraduate
-    - **September 2023 - February 2024**
-      - 20408-02 / Calculus II, Undergraduate
-    - **March 2024 - August 2024**
-      - 20406-04 / Calculus, Undergraduate
-
+    
 
 #### Korea University, Sejong (March 2021 - October 2021)
   - Research Fellow
