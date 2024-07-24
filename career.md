@@ -53,9 +53,9 @@ title: Research Career
 
 ### Bachelor of Arts
 
-* March 2010 - February 2017
+* March 2010 - February 2017 (Military Service in ROKAF: August 2011 - August 2013)
   * Yonsei University, Seoul
-    * Double Majored in Applied Statistics and Mathematics
+    * Doubly Majored in Applied Statistics and Mathematics
 
 # Talks
 
@@ -76,4 +76,9 @@ title: Research Career
 # Honor and Award
 
 * Brain Korea 21 (BK21) Scholarship, March 2019 - February 2021
-  * Scholarship from BK21 organized by Ministry of Education and Human Resources Development of South Korea
+  * Scholarship from BK21 organized by the Ministry of Education and Human Resources Development of Korea
+ 
+# Grant
+
+* National Research Foundation (NRF) of Korea, June 2022 - May 2025
+  * Basic Science Research Program through the NRF of Korea funded by the Ministry of Education of Korea
