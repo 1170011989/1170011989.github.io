@@ -59,8 +59,8 @@ title: Research Career
 
 # Talks
 
-* _KSMB-SMB 2024 Seoul_, Konkuk University, Seoul, Republic of Korea, June 30-July 5, 2024.
-* _17th SIAM East Asian Section Conference_, University of Macau, Macau, China, June 28-July 1, 2024.
+* _KSMB-SMB 2024 Seoul_, Konkuk University, Seoul, Republic of Korea, June 30 - July 5, 2024.
+* _17th SIAM East Asian Section Conference_, University of Macau, Macau, China, June 28 - July 1, 2024.
 * _2024 KAIST PDE & Applied Mathematics Workshop_, KAIST, Daejeon, Republic of Korea, January 22-24, 2024.
 * _2023 KSIAM Annual Meeting_, Kimdaejung Convention Center, Gwangju, Republic of Korea, November 2-5, 2023.
 * _2023 KMS Annual Meeting_, Seoul National University, Seoul, Republic of Korea, October 26-28, 2023.
@@ -70,7 +70,7 @@ title: Research Career
 * _2021 KSIAM Spring Conference_, Gangneung TopsTen Hotel, Gangneung, Republic of Korea, June 25-27, 2021.
 * _62nd Annual Meeting of the Australian Mathematical Society_, University of Adelaide, Adelaide, Australia, December 4-7, 2018.
 * _23rd Asian Technology Conference in Mathematics_, Yogyakarta State University, Yogyakarta, Indonesia, November 20-24, 2018.
-* _6th Annual Meeting of the Australian and New Zealand Association of Mathematical Physics_, University of Auckland, Takapuna, New Zealand, January 30-February 1, 2018.
+* _6th Annual Meeting of the Australian and New Zealand Association of Mathematical Physics_, University of Auckland, Takapuna, New Zealand, January 30 - February 1, 2018.
 
 
 <br/>
@@ -83,4 +83,4 @@ title: Research Career
 # Grant
 
 * Basic Science Research Program, June 2022 - May 2025
-  * Research grant through the National Research Foundation of Korea funded by the Ministry of Education of Korea
+  * Research grant through the National Research Foundation of Korea funded by the Ministry of Education
