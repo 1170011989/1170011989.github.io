@@ -82,5 +82,5 @@ title: Research Career
  
 # Grant
 
-* National Research Foundation (NRF) of Korea, June 2022 - May 2025
-  * Basic Science Research Program through the NRF of Korea funded by the Ministry of Education of Korea
+* Basic Science Research Program, June 2022 - May 2025
+  * Research grant through the National Research Foundation of Korea funded by the Ministry of Education of Korea
